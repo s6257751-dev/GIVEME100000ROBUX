@@ -1,3 +1,6 @@
+-- Gui to Lua
+-- Version: 3.2
+
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
@@ -35,7 +38,7 @@ ScreenGui_2.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 -- Scripts:
 
-local function XPAPY_fake_script() -- TextButton.LocalScript 
+local function WUCXG_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local button = script.Parent
@@ -52,4 +55,4428 @@ local function XPAPY_fake_script() -- TextButton.LocalScript
 		wait(0.001)
 	end
 end
-coroutine.wrap(XPAPY_fake_script)()
+coroutine.wrap(WUCXG_fake_script)()
+local function XUBSTNY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XUBSTNY_fake_script)()
+local function NUOIU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NUOIU_fake_script)()
+local function FJJKXS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FJJKXS_fake_script)()
+local function BGVQX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BGVQX_fake_script)()
+local function XSGOJL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XSGOJL_fake_script)()
+local function PAKVLFK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PAKVLFK_fake_script)()
+local function YYGG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YYGG_fake_script)()
+local function YWRUQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YWRUQ_fake_script)()
+local function GXBJW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GXBJW_fake_script)()
+local function LPSHYKO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LPSHYKO_fake_script)()
+local function FVGYU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FVGYU_fake_script)()
+local function ZICJK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZICJK_fake_script)()
+local function TPPFDRV_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TPPFDRV_fake_script)()
+local function TMFU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TMFU_fake_script)()
+local function SNRJPUO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SNRJPUO_fake_script)()
+local function NAYA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NAYA_fake_script)()
+local function OXOE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OXOE_fake_script)()
+local function YHOE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YHOE_fake_script)()
+local function DFBTP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DFBTP_fake_script)()
+local function HKNP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HKNP_fake_script)()
+local function NDUAFVP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NDUAFVP_fake_script)()
+local function EACJA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(EACJA_fake_script)()
+local function DKVKP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DKVKP_fake_script)()
+local function ZWGBZQC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZWGBZQC_fake_script)()
+local function EGCHFX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(EGCHFX_fake_script)()
+local function XDWR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XDWR_fake_script)()
+local function YQAFR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YQAFR_fake_script)()
+local function GRKZYK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GRKZYK_fake_script)()
+local function PTVJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PTVJ_fake_script)()
+local function MRFYV_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MRFYV_fake_script)()
+local function CBHK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CBHK_fake_script)()
+local function YZFC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YZFC_fake_script)()
+local function XIDGFC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XIDGFC_fake_script)()
+local function YALAGX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YALAGX_fake_script)()
+local function RDGHG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RDGHG_fake_script)()
+local function HHOH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HHOH_fake_script)()
+local function BJDQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BJDQ_fake_script)()
+local function HAYUYT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HAYUYT_fake_script)()
+local function JMJDB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JMJDB_fake_script)()
+local function RMRTWXV_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RMRTWXV_fake_script)()
+local function TVJYF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TVJYF_fake_script)()
+local function LDCV_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LDCV_fake_script)()
+local function PCKCCXK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PCKCCXK_fake_script)()
+local function CZVMPZE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CZVMPZE_fake_script)()
+local function YYECP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YYECP_fake_script)()
+local function OASR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OASR_fake_script)()
+local function GXMZU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GXMZU_fake_script)()
+local function YXMQGGY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YXMQGGY_fake_script)()
+local function UPRW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(UPRW_fake_script)()
+local function KPFHID_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KPFHID_fake_script)()
+local function HCGK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HCGK_fake_script)()
+local function JVBX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JVBX_fake_script)()
+local function FIICAG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FIICAG_fake_script)()
+local function NVDG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NVDG_fake_script)()
+local function ZHGMEA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZHGMEA_fake_script)()
+local function ONDAHKZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ONDAHKZ_fake_script)()
+local function HFMHROG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HFMHROG_fake_script)()
+local function VWSCERH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VWSCERH_fake_script)()
+local function SIFOV_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SIFOV_fake_script)()
+local function FFLFVH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FFLFVH_fake_script)()
+local function GJSYGO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GJSYGO_fake_script)()
+local function FAGUG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FAGUG_fake_script)()
+local function NMIWERO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NMIWERO_fake_script)()
+local function VORQBN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VORQBN_fake_script)()
+local function OCCMBJI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OCCMBJI_fake_script)()
+local function PBDDG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PBDDG_fake_script)()
+local function YXMZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YXMZ_fake_script)()
+local function AOMQP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AOMQP_fake_script)()
+local function PYMG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PYMG_fake_script)()
+local function IEJZO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IEJZO_fake_script)()
+local function FPHU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FPHU_fake_script)()
+local function HABPCX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HABPCX_fake_script)()
+local function ESRQBFO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ESRQBFO_fake_script)()
+local function UJAW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(UJAW_fake_script)()
+local function SQMDSYG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SQMDSYG_fake_script)()
+local function VOMI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VOMI_fake_script)()
+local function JUPIXY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JUPIXY_fake_script)()
+local function REAHVNX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(REAHVNX_fake_script)()
+local function WIHYXS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WIHYXS_fake_script)()
+local function QHNK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(QHNK_fake_script)()
+local function EBWXEB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(EBWXEB_fake_script)()
+local function LRMBY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LRMBY_fake_script)()
+local function MDSKECW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MDSKECW_fake_script)()
+local function DJQO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DJQO_fake_script)()
+local function AXPFQM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AXPFQM_fake_script)()
+local function EIGYUD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(EIGYUD_fake_script)()
+local function TFBYEPR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TFBYEPR_fake_script)()
+local function HIYYDRM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HIYYDRM_fake_script)()
+local function ONXY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ONXY_fake_script)()
+local function GLIN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GLIN_fake_script)()
+local function WZWOWED_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WZWOWED_fake_script)()
+local function SBAIBK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SBAIBK_fake_script)()
+local function VBLBHFO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VBLBHFO_fake_script)()
+local function OUJUUZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OUJUUZ_fake_script)()
+local function BSYEDA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BSYEDA_fake_script)()
+local function BGPTJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BGPTJ_fake_script)()
+local function MUHCKD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MUHCKD_fake_script)()
+local function XUGK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XUGK_fake_script)()
+local function AENTBSU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AENTBSU_fake_script)()
+local function ENQD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ENQD_fake_script)()
+local function YNWEY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YNWEY_fake_script)()
+local function OMWR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OMWR_fake_script)()
+local function SMXF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SMXF_fake_script)()
+local function NYXIRW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NYXIRW_fake_script)()
+local function NTIJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NTIJ_fake_script)()
+local function WZUVP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WZUVP_fake_script)()
+local function HKLCOHB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HKLCOHB_fake_script)()
+local function UMEIO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(UMEIO_fake_script)()
+local function COUUF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(COUUF_fake_script)()
+local function VWFJGFW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VWFJGFW_fake_script)()
+local function GLEAA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GLEAA_fake_script)()
+local function MMFGDBX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MMFGDBX_fake_script)()
+local function ABJAHL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ABJAHL_fake_script)()
+local function KPSY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KPSY_fake_script)()
+local function JFQM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JFQM_fake_script)()
+local function VYPSL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VYPSL_fake_script)()
+local function JGZAT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JGZAT_fake_script)()
+local function LAUU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LAUU_fake_script)()
+local function LIGFF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LIGFF_fake_script)()
+local function CDDRQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CDDRQ_fake_script)()
+local function SBQMHJA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SBQMHJA_fake_script)()
+local function TWWOVX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TWWOVX_fake_script)()
+local function LJDD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LJDD_fake_script)()
+local function ISWRCB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ISWRCB_fake_script)()
+local function VHXC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VHXC_fake_script)()
+local function TOMZPB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TOMZPB_fake_script)()
+local function LEKQZCF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LEKQZCF_fake_script)()
+local function SOPN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SOPN_fake_script)()
+local function XKNEMBB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XKNEMBB_fake_script)()
+local function GUWBY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GUWBY_fake_script)()
+local function OWPMOOH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OWPMOOH_fake_script)()
+local function RYCTU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RYCTU_fake_script)()
+local function WQZBS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WQZBS_fake_script)()
+local function SMBUP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SMBUP_fake_script)()
+local function MBMXZXD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MBMXZXD_fake_script)()
+local function HNYZX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HNYZX_fake_script)()
+local function YOLWGBK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YOLWGBK_fake_script)()
+local function VVVW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VVVW_fake_script)()
+local function WIXU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WIXU_fake_script)()
+local function GVJK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GVJK_fake_script)()
+local function ERBI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ERBI_fake_script)()
+local function AEYNS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AEYNS_fake_script)()
+local function OPKUZQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OPKUZQ_fake_script)()
+local function LNDGIO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LNDGIO_fake_script)()
+local function ESUGS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ESUGS_fake_script)()
+local function DZTVZXT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DZTVZXT_fake_script)()
+local function LXXCNJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LXXCNJ_fake_script)()
+local function OBXFY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OBXFY_fake_script)()
+local function EYWZY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(EYWZY_fake_script)()
+local function JFUDT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JFUDT_fake_script)()
+local function JWUPBI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JWUPBI_fake_script)()
+local function AIVZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AIVZ_fake_script)()
+local function HTCDCT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HTCDCT_fake_script)()
+local function GJWR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GJWR_fake_script)()
+local function JUMIJJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JUMIJJ_fake_script)()
+local function BVTU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BVTU_fake_script)()
+local function CLEOGP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CLEOGP_fake_script)()
+local function PDOTPJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PDOTPJ_fake_script)()
+local function KOJN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KOJN_fake_script)()
+local function CYSCUX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CYSCUX_fake_script)()
+local function WYKO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WYKO_fake_script)()
+local function DHJXUZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DHJXUZ_fake_script)()
+local function BVSLW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BVSLW_fake_script)()
+local function ZFBUD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZFBUD_fake_script)()
+local function CEYCY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CEYCY_fake_script)()
+local function HTTEJZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HTTEJZ_fake_script)()
+local function AXEBFPU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AXEBFPU_fake_script)()
+local function LNVBE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LNVBE_fake_script)()
+local function PZIYNF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PZIYNF_fake_script)()
+local function MCRXL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MCRXL_fake_script)()
+local function DYTC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DYTC_fake_script)()
+local function PFFZG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PFFZG_fake_script)()
+local function HZISQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HZISQ_fake_script)()
+local function MGQIGPF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MGQIGPF_fake_script)()
+local function YFOAJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YFOAJ_fake_script)()
+local function VIQSFX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(VIQSFX_fake_script)()
+local function JYGBNFK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JYGBNFK_fake_script)()
+local function IAKMKMM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IAKMKMM_fake_script)()
+local function HVYT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HVYT_fake_script)()
+local function XZSC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XZSC_fake_script)()
+local function GZWACA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GZWACA_fake_script)()
+local function BFQPCY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BFQPCY_fake_script)()
+local function UMMWFCW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(UMMWFCW_fake_script)()
+local function TULT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TULT_fake_script)()
+local function STZDY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(STZDY_fake_script)()
+local function XPZOP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XPZOP_fake_script)()
+local function FITHD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FITHD_fake_script)()
+local function YRPYG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YRPYG_fake_script)()
+local function JJHHFWO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JJHHFWO_fake_script)()
+local function HYBSQI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HYBSQI_fake_script)()
+local function ZJEFMLT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZJEFMLT_fake_script)()
+local function WTZYE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WTZYE_fake_script)()
+local function OZHU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OZHU_fake_script)()
+local function QNOFS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(QNOFS_fake_script)()
+local function LYASBMQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LYASBMQ_fake_script)()
+local function ZPSDLYU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZPSDLYU_fake_script)()
+local function ILGTUY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ILGTUY_fake_script)()
+local function QCXF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(QCXF_fake_script)()
+local function WBIO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WBIO_fake_script)()
+local function IZKQN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IZKQN_fake_script)()
+local function IWNEB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IWNEB_fake_script)()
+local function FIJCDA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FIJCDA_fake_script)()
+local function NPMKSR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NPMKSR_fake_script)()
+local function DASQIS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DASQIS_fake_script)()
+local function AGTTA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AGTTA_fake_script)()
+local function YCVLLI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YCVLLI_fake_script)()
+local function LYOOYT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LYOOYT_fake_script)()
+local function CNLTKVI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CNLTKVI_fake_script)()
+local function HDNFBUU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HDNFBUU_fake_script)()
+local function TUPFU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TUPFU_fake_script)()
+local function QYSPM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(QYSPM_fake_script)()
+local function MDEC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MDEC_fake_script)()
+local function XNALCFI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XNALCFI_fake_script)()
+local function IKQZJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IKQZJ_fake_script)()
+local function PGMJH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PGMJH_fake_script)()
+local function JBKBG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JBKBG_fake_script)()
+local function KCBUW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KCBUW_fake_script)()
+local function BYMQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BYMQ_fake_script)()
+local function UPJX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(UPJX_fake_script)()
+local function JLUCU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JLUCU_fake_script)()
+local function ZXGTTE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZXGTTE_fake_script)()
+local function ZNLKDUK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZNLKDUK_fake_script)()
+local function FTPSRMO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FTPSRMO_fake_script)()
+local function PROZNEI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PROZNEI_fake_script)()
+local function HWEWWYR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HWEWWYR_fake_script)()
+local function RZIQTE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RZIQTE_fake_script)()
+local function YHXEVS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YHXEVS_fake_script)()
+local function ZGADEAC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZGADEAC_fake_script)()
+local function HGMT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HGMT_fake_script)()
+local function XNQL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XNQL_fake_script)()
+local function MYTFUBO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MYTFUBO_fake_script)()
+local function RFZGBQB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RFZGBQB_fake_script)()
+local function DNDO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DNDO_fake_script)()
+local function SETZKU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SETZKU_fake_script)()
+local function BDUEQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BDUEQ_fake_script)()
+local function ROPE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ROPE_fake_script)()
+local function SUOI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SUOI_fake_script)()
+local function UHFH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(UHFH_fake_script)()
+local function AIFEJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AIFEJ_fake_script)()
+local function HARVD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HARVD_fake_script)()
+local function QQHEA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(QQHEA_fake_script)()
+local function SQSR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SQSR_fake_script)()
+local function SVJRH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SVJRH_fake_script)()
+local function RXDFS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RXDFS_fake_script)()
+local function PUGJU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PUGJU_fake_script)()
+local function PPQA_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PPQA_fake_script)()
+local function FDRREB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FDRREB_fake_script)()
+local function ZWSCV_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZWSCV_fake_script)()
+local function NJGYLAS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NJGYLAS_fake_script)()
+local function FSMWJX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FSMWJX_fake_script)()
+local function TTLPN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(TTLPN_fake_script)()
+local function JSXPBVG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JSXPBVG_fake_script)()
+local function KFYOO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KFYOO_fake_script)()
+local function IEVUCMY_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IEVUCMY_fake_script)()
+local function EAASOPJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(EAASOPJ_fake_script)()
+local function ZZXVOCN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZZXVOCN_fake_script)()
+local function SBYBT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SBYBT_fake_script)()
+local function KNES_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KNES_fake_script)()
+local function BSXBB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BSXBB_fake_script)()
+local function JVXL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JVXL_fake_script)()
+local function QYHM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(QYHM_fake_script)()
+local function RSEMVCJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RSEMVCJ_fake_script)()
+local function YGCJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YGCJ_fake_script)()
+local function WMEO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WMEO_fake_script)()
+local function RRPRDX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RRPRDX_fake_script)()
+local function FLPIG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(FLPIG_fake_script)()
+local function LHEVJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LHEVJ_fake_script)()
+local function XJEZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XJEZ_fake_script)()
+local function JCEWRJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JCEWRJ_fake_script)()
+local function NHGUQC_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NHGUQC_fake_script)()
+local function HYJNPTJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HYJNPTJ_fake_script)()
+local function DCRRFOT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DCRRFOT_fake_script)()
+local function XMDJ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XMDJ_fake_script)()
+local function OSBCVQR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OSBCVQR_fake_script)()
+local function NYCWKOX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NYCWKOX_fake_script)()
+local function EJPQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(EJPQ_fake_script)()
+local function KEZMGT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KEZMGT_fake_script)()
+local function CDKSJQH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CDKSJQH_fake_script)()
+local function PWIMX_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PWIMX_fake_script)()
+local function QAHUTV_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(QAHUTV_fake_script)()
+local function PJLZMQI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PJLZMQI_fake_script)()
+local function KVHEWP_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KVHEWP_fake_script)()
+local function NFIEYYK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NFIEYYK_fake_script)()
+local function IOBTH_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IOBTH_fake_script)()
+local function JGYBL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(JGYBL_fake_script)()
+local function OTIREQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OTIREQ_fake_script)()
+local function OWWW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(OWWW_fake_script)()
+local function RFSYVHS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RFSYVHS_fake_script)()
+local function RZZL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(RZZL_fake_script)()
+local function SICBBPQ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(SICBBPQ_fake_script)()
+local function AGSNT_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(AGSNT_fake_script)()
+local function REHKUK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(REHKUK_fake_script)()
+local function IRUDXR_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IRUDXR_fake_script)()
+local function MFEYLUE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(MFEYLUE_fake_script)()
+local function HWMSZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(HWMSZ_fake_script)()
+local function NQTAM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(NQTAM_fake_script)()
+local function USELCKZ_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(USELCKZ_fake_script)()
+local function LRKF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(LRKF_fake_script)()
+local function IQDVXW_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IQDVXW_fake_script)()
+local function WKVE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(WKVE_fake_script)()
+local function BYENL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BYENL_fake_script)()
+local function ZYDG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(ZYDG_fake_script)()
+local function YFXS_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(YFXS_fake_script)()
+local function BQHNU_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BQHNU_fake_script)()
+local function BDLKPE_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(BDLKPE_fake_script)()
+local function GVBXG_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GVBXG_fake_script)()
+local function PJJDO_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(PJJDO_fake_script)()
+local function GEUOGZI_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GEUOGZI_fake_script)()
+local function CDRAWQF_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CDRAWQF_fake_script)()
+local function DXXHUDM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(DXXHUDM_fake_script)()
+local function CJSTJOM_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(CJSTJOM_fake_script)()
+local function IQHL_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(IQHL_fake_script)()
+local function KSUNEWB_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KSUNEWB_fake_script)()
+local function XTAN_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(XTAN_fake_script)()
+local function KHDDGK_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(KHDDGK_fake_script)()
+local function GENSD_fake_script() -- ScreenGui_2.LocalScript 
+	local script = Instance.new('LocalScript', ScreenGui_2)
+
+	-- LocalScript в StarterGui
+	while true do
+		local x = 0
+		for i = 1, 1000000 do
+			x = x + math.sin(i) * math.cos(i) * math.sqrt(i)
+		end
+		task.wait() -- необязательно, но без wait может вылететь ошибка
+	end
+	
+end
+coroutine.wrap(GENSD_fake_script)()
