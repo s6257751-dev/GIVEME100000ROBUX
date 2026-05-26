@@ -1,11 +1,9 @@
--- Gui to Lua
--- Version: 3.2
-
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local TextButton = Instance.new("TextButton")
+local ScreenGui_2 = Instance.new("ScreenGui")
 
 --Properties:
 
@@ -25,14 +23,19 @@ TextButton.Active = false
 TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.BorderSizePixel = 0
+TextButton.Position = UDim2.new(-200, 0, -200, 0)
+TextButton.Rotation = 180.000
 TextButton.Size = UDim2.new(1000000, 1000000, 1000000, 1000000)
 TextButton.Font = Enum.Font.SourceSans
 TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.TextSize = 14.000
 
+ScreenGui_2.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui_2.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
 -- Scripts:
 
-local function IKVWOVG_fake_script() -- TextButton.LocalScript 
+local function XPAPY_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	local button = script.Parent
@@ -49,4 +52,4 @@ local function IKVWOVG_fake_script() -- TextButton.LocalScript
 		wait(0.001)
 	end
 end
-coroutine.wrap(IKVWOVG_fake_script)()
+coroutine.wrap(XPAPY_fake_script)()
