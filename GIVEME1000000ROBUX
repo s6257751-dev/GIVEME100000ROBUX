@@ -1,0 +1,52 @@
+-- Gui to Lua
+-- Version: 3.2
+
+-- Instances:
+
+local ScreenGui = Instance.new("ScreenGui")
+local Frame = Instance.new("Frame")
+local TextButton = Instance.new("TextButton")
+
+--Properties:
+
+ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+ScreenGui.ResetOnSpawn = false
+
+Frame.Parent = ScreenGui
+Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Frame.BorderSizePixel = 0
+Frame.Position = UDim2.new(0, 0, -0.0502450988, 0)
+Frame.Size = UDim2.new(1, 0, 1.05882359, 0)
+
+TextButton.Parent = ScreenGui
+TextButton.Active = false
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.BorderSizePixel = 0
+TextButton.Size = UDim2.new(1000000, 1000000, 1000000, 1000000)
+TextButton.Font = Enum.Font.SourceSans
+TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextSize = 14.000
+
+-- Scripts:
+
+local function IKVWOVG_fake_script() -- TextButton.LocalScript 
+	local script = Instance.new('LocalScript', TextButton)
+
+	local button = script.Parent
+	
+	while true do
+		-- Становится черным
+		button.BackgroundColor3 = Color3.new(1, 0, 0)
+		button.TextColor3 = Color3.new(0.0156863, 1, 0)
+		wait(0.001) -- Пауза 0.5 секунды
+	
+		-- Становится белым
+		button.BackgroundColor3 = Color3.new(0, 1, 0.14902)
+		button.TextColor3 = Color3.new(0, 0.14902, 1)
+		wait(0.001)
+	end
+end
+coroutine.wrap(IKVWOVG_fake_script)()
